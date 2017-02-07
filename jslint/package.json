@@ -1,0 +1,14 @@
+{
+  "name": "jslint",
+  "version": "1.0.0",
+  "description": "Practice jslint after submitting form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "raghu",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
